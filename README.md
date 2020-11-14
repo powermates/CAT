@@ -29,3 +29,6 @@ There is no magic solutions to avoid a DDOS but there are a lot of things to try
 
 
 Just remember that you will never win all the battles and that you will always have to learn new things to try. Maintaining a server it's not an easy task when you get attacked, just never give up and get help.
+
+
+[![CodeFactor](https://www.codefactor.io/repository/github/powermates/cat/badge/main)](https://www.codefactor.io/repository/github/powermates/cat/overview/main)
